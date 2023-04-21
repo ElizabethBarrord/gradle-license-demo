@@ -32,6 +32,9 @@ dependencies {
     // Use the Kotlin test library.
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 
+    // https://mvnrepository.com/artifact/com.itextpdf/itextpdf
+    implementation("com.itextpdf:html2pdf:4.0.5")
+
     // Use the Kotlin JUnit integration.
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
 }
