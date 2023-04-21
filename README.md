@@ -1,0 +1,1 @@
+# gradle-license-demo
