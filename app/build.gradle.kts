@@ -24,6 +24,8 @@ dependencies {
     implementation(platform("org.jetbrains.kotlin:kotlin-bom"))
 
     // Use the Kotlin JDK 8 standard library.
+    implementation("com.itextpdf:itextpdf:5.5.13.2")
+    
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
     // This dependency is used by the application.
