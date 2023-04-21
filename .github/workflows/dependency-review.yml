@@ -19,4 +19,4 @@ jobs:
       - name: 'Dependency Review'
         uses: actions/dependency-review-action@v2
         with:
-          deny-licenses: AGPL-3.0
+          deny-licenses: AGPL-3.0-or-later
