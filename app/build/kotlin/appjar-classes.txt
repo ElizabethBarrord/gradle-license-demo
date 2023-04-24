@@ -1,0 +1,1 @@
+/Users/elizabethbarrord/Documents/gradle-license-demo/app/build/classes/kotlin/main/demo/App.class:/Users/elizabethbarrord/Documents/gradle-license-demo/app/build/classes/kotlin/main/demo/AppKt.class
